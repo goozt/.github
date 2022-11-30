@@ -8,4 +8,6 @@
 
 - :zap: Feel free to raise isses or message me for any help or queries. Happy to help!
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-nikzjon-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/nikzjon)
+- 👨🏻‍💻 This organisation is owned by [Nikhil John](https://github.com/nikhiljohn10)
+
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-nikzjon-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/nikzjon)
