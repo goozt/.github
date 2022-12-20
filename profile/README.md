@@ -10,4 +10,6 @@
 
 - 👨🏻‍💻 This organisation is owned by [Nikhil John](https://github.com/nikhiljohn10)
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-nikzjon-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/nikzjon)
+- :mailbox: How to reach me: [![Email Badge](https://img.shields.io/badge/-maintainer@goozt.org-blue?style=flat&logo=Mail.Ru&logoColor=white)](mailto:maintainer@goozt.org)
+
+- :handshake: Connect with me: [![Linkedin Badge](https://img.shields.io/badge/-nikzjon-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/nikzjon) 
