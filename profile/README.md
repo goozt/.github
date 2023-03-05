@@ -2,11 +2,11 @@
 
 <div align=center><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="400" height="400"/></div>
 
-- :telescope: **Goozt** organisation is dedicated for Go related repositories and modules.
+- :telescope: [**Goozt** organisation](https://goozt.org) is dedicated for Go related repositories and modules.
 
-- :seedling: Exploring the unknown and sharing knowledge and go proverbs.
+- :seedling: Exploring the unknown and sharing knowledge and diving in to go proverbs.
 
-- :zap: Feel free to raise isses or message me for any help or queries. Happy to help!
+- :zap: Feel free to raise issues or message me for any help or queries. Happy to help!
 
 - 👨🏻‍💻 This organisation is owned by [Nikhil John](https://github.com/nikhiljohn10)
 
